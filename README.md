@@ -1,3 +1,3 @@
 # E2EML
-A machine learning project to predict the median housing in California state.
+Studying Practical ML by Aurelien Geron
 
